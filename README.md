@@ -1,13 +1,13 @@
-# 👋 Hello, I'm [OLUNLADE ABDULMUIZ]!
+👋 Hello, I'm [OLUNLADE ABDULMUIZ]!
 
 I'm a passionate Front-End Developer with a knack for creating visually stunning and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-## ✨ About Me
+✨ About Me
 
 - 💻 Tech Stack: HTML, CSS, JavaScript, React, Vue.js, SASS, Bootstrap, Tailwind CSS
-- 🌱 Currently Learning:** TypeScript, Next.js, and GraphQL
-- 🎨 Design Enthusiast:** I believe that good design is as important as functionality. I love collaborating with designers to bring ideas to life.
-- 🔍 Open Source Contributor:** Actively contributing to various open-source projects to improve my skills and give back to the community.
+- 🌱 Currently Learning: TypeScript, Next.js, and GraphQL
+- 🎨 Design Enthusiast: I believe that good design is as important as functionality. I love collaborating with designers to bring ideas to life.
+- 🔍 Open Source Contributor: Actively contributing to various open-source projects to improve my skills and give back to the community.
 
  📈 Projects
 
