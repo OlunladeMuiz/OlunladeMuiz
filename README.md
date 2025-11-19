@@ -13,11 +13,24 @@ I'm a passionate Front-End Developer with a knack for creating visually stunning
 
 Here are some of my notable projects:
 
-1. [Project Name](link-to-project)  
-   - Description: A brief description of what this project does and the technologies used.
-   - Key Features: List the standout features that make this project unique.
-   - Demo: [Live Demo](link-to-demo)
+1. [Dry Cleaning Vendor App](https://dry-cleaning-vendor-app.vercel.app/)  
+   - Description: The Dry Cleaning Vendor App is a modern web application designed to streamline laundry service management for students. It enables users to place, track, and manage dry cleaning orders efficiently, offering a seamless experience tailored to campus life.
 
+Technologies Used:
+
+1. React (with Vite) for fast, interactive user interfaces
+2. TypeScript for type-safe, maintainable code
+3. Supabase for authentication and real-time database
+4. Tailwind CSS for responsive, utility-first styling
+5. Vercel for deployment and hosting
+6. SVG assets for engaging UI visuals and icons
+- Key Features: Student-Centric Design: Tailored specifically for students, addressing their unique laundry and dry cleaning needs on campus.
+Real-Time Order Tracking: Users can monitor the status of their orders live, ensuring transparency and reliability.
+Seamless Authentication: Secure login and registration powered by Supabase, with support for social sign-in.
+Modern, Responsive UI: Built with React and Tailwind CSS, the app provides a fast, mobile-friendly experience.
+Enhanced Dashboard: Students have access to a personalized dashboard for managing orders, payments, and profiles..
+   - Demo: [Live Demo](https://dry-cleaning-vendor-app.vercel.app/))
+ 
 2. [Project Name](link-to-project)  
    - Description: A brief description of what this project does and the technologies used.
    - Key Features: List the standout features that make this project unique.
