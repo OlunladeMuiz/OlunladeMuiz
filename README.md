@@ -29,7 +29,7 @@ Real-Time Order Tracking: Users can monitor the status of their orders live, ens
 Seamless Authentication: Secure login and registration powered by Supabase, with support for social sign-in.
 Modern, Responsive UI: Built with React and Tailwind CSS, the app provides a fast, mobile-friendly experience.
 Enhanced Dashboard: Students have access to a personalized dashboard for managing orders, payments, and profiles..
-   - Demo: [Live Demo](https://dry-cleaning-vendor-app.vercel.app/))
+   - Demo: (https://dry-cleaning-vendor-app.vercel.app/)
  
 2. [Project Name](link-to-project)  
    - Description: A brief description of what this project does and the technologies used.
