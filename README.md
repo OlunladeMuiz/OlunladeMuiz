@@ -1,6 +1,6 @@
 👋 Hello, I'm [OLUNLADE ABDULMUIZ]!
 
-I'm a passionate Front-End Developer with a knack for creating visually stunning and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate Full stack Developer with a knack for creating visually stunning and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ✨ About Me
 
