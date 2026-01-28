@@ -25,7 +25,9 @@ A polished portfolio platform for artists to showcase work, manage pricing, and 
 **Highlights:** Artist-centric design, secure auth, portfolio dashboard, dark mode, accessible UI components  
 **Live Demo:** https://professional-art-website-design-o4ch67air.vercel.app/
 
-## 🤝 Connect
-LinkedIn | Twitter/X | Portfolio
+## 🤝 Let's Connect
+LinkedIn : www.linkedin.com/in/muiz-olunlade-1b12693a6
+instagram : https://www.instagram.com/muiz_olunlade
+Portfolio : https://my-portfolio-wine-sigma-95.vercel.app
 
 🚀 Open to collaborations, impactful projects, and full-stack opportunities.
