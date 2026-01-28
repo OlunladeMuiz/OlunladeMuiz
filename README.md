@@ -27,7 +27,9 @@ A polished portfolio platform for artists to showcase work, manage pricing, and 
 
 ## 🤝 Let's Connect
 LinkedIn : www.linkedin.com/in/muiz-olunlade-1b12693a6
+
 instagram : https://www.instagram.com/muiz_olunlade
+
 Portfolio : https://my-portfolio-wine-sigma-95.vercel.app
 
 🚀 Open to collaborations, impactful projects, and full-stack opportunities.
